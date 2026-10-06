@@ -1,7 +1,7 @@
 
 
 # I'm Tina
-Junior Front-end developer, with a background in pedagogy. I recently completed a 120 fagskolepoeng Front-End Development educatiion at Noroff. I am currently based in [Trondheim].
+Junior Front-end developer, with a background in pedagogy. I recently completed a 120 studiepoeng Front-End Development educatiion at Noroff. I am currently based in [Trondheim].
 I work across HTML, CSS, JavaScript through to React and have experience with REST APIs, authentication and CRUD functionality.
 
 ## A couple of things I've built
